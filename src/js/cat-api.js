@@ -3,7 +3,7 @@ const url2 = 'https://api.thecatapi.com/v1/images';
 
 //Unique access key to the Cat API
 const KEY =
-  'live_iyDH1Lkp1C41sM6nOfMaVWMXh6fBqIhUHQaPx4vk9JAsMk5snpOH10h6mGBzWA9x';
+  'live_1uxUIuvtjxx3ir670VhmcXVlTXHSVOrUYZEQRP95tkQr6kVIKVHWtirkAnPKAcTD';
 
 
 const fetchBreeds = () => {
