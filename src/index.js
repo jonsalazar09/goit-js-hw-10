@@ -5,7 +5,7 @@ import { fetchCountries } from './fetchCountries';
 import {
   createMarkupCountryInfo,
   createMarkupCountryList,
-} from './createMarkup.js';
+} from './createMarkup';
 
 const searchField = document.querySelector('#search-box');
 const countryList = document.querySelector('.country-list');
