@@ -1,6 +1,6 @@
-import { fetchCatByBreed } from './src/js/cat-api.js';
-import { renderBreedDesc } from './src/js/renderBreedDesc.js';
-import { fetchAndRenderBreeds } from './src/js/fetchAndRenderBreeds.js';
+import { fetchCatByBreed } from './cat-api.js';
+import { renderBreedDesc } from './renderBreedDesc.js';
+import { fetchAndRenderBreeds } from './fetchAndRenderBreeds.js';
 
 import Notiflix from 'notiflix';
 
